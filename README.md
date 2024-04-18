@@ -28,4 +28,5 @@ In this project:
 * Practiced basic string manipulation functions.
 * Employed Conditional Formatting.
 * Utilized pivot tables for summarization.
+* Practiced VLOOKUP function.
 * Created Visuals via charts.
