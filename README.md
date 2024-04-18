@@ -27,6 +27,6 @@ In this project:
 * Practiced basic logical and aggregate functions.
 * Practiced basic string manipulation functions.
 * Employed Conditional Formatting.
-* Utilized pivot tables for summarization.
+* Utilized pivot tables for summarization and visualization.
 * Practiced VLOOKUP function.
-* Created Visuals via charts.
+* Created visuals via charts.
